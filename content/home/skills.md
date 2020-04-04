@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
@@ -14,22 +14,123 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
+
 [[feature]]
-  icon = "r-project"
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "80%"  
+  
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Adversarial Machine Learning"
+  description = "80%"  
+  
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Deep Learning"
+  description = "70%" 
+
+[[feature]]
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Python"
+  description = "70%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "python"
+  icon_pack = "fab"
+  name = "NumPy"
+  description = "80%"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "python"
+  icon_pack = "fab"
+  name = "Scikit-learn"
+  description = "60%"
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "PyTorch"
+  description = "80%"
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "TensorFlow"
+  description = "50%"
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Keras"
+  description = "40%"
+  
+  
+[[feature]]
+  icon = "calculator"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "MATLAB"
+  description = "80%"
+  
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "40%"
+  
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "C"
+  description = "40%"
+  
+[[feature]]
+  icon = "file-code"
+  icon_pack = "fas"
+  name = "LaTeX"
+  description = "70%"
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "40%"
+  
+[[feature]]
+  icon = "broadcast-tower"
+  icon_pack = "fas"
+  name = "RF and Antenna Engineering"
+  description = "70%"
+  
+[[feature]]
+  icon = "broadcast-tower"
+  icon_pack = "fas"
+  name = "RADAR"
+  description = "70%"
+  
+[[feature]]
+  icon = "globe-europe"
+  icon_pack = "fas"
+  name = "International Experience"
+  description = "80%"
+  
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Spanish"
+  description = "100%"
+  
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "English"
+  description = "80%"
+  
+
+
 
 +++
