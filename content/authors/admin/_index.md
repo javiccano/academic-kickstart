@@ -18,7 +18,7 @@ organizations:
   url: "https://www.imperial.ac.uk/computing"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include adversarial machine learning (with special focus on data poisoning attacks); applications of machine learning in cyber security; bilevel optimisation problems; and Generative Adversarial Networks (GANs).
+bio: My interests include adversarial machine learning (with special focus on data poisoning attacks); applications of machine learning in security; bilevel optimisation problems; and Generative Adversarial Networks (GANs).
 
 
 interests:
@@ -94,4 +94,4 @@ user_groups:
 - Visitors
 ---
 
-Javier Carnerero Cano is a PhD Candidate in the <a href="http://www.imperial.ac.uk/computing">Department of Computing</a> at <a href="https://www.imperial.ac.uk/">Imperial College London</a>. His current interests include (not limited to) adversarial machine learning, aiming to investigate the security of machine learning algorithms (with special focus on data poisoning attacks); applications of machine learning in cyber security; bilevel optimisation problems; and Generative Adversarial Networks (GANs). Javier is part of the <a href="http://rissgroup.org">Resilient Information Systems Security (RISS) Group</a> under the supervision of <a href="https://www.imperial.ac.uk/people/e.c.lupu">Prof Emil C. Lupu</a> and <a href="https://www.doc.ic.ac.uk/~lmunozgo/">Dr Luis Muñoz González</a>. 
+Javier Carnerero Cano is a PhD Candidate in the <a href="http://www.imperial.ac.uk/computing">Department of Computing</a> at <a href="https://www.imperial.ac.uk/">Imperial College London</a>. His current interests include (not limited to) adversarial machine learning, aiming to investigate the security of machine learning algorithms (with special focus on data poisoning attacks); applications of machine learning in security; bilevel optimisation problems; and Generative Adversarial Networks (GANs). Javier is part of the <a href="http://rissgroup.org">Resilient Information Systems Security (RISS) Group</a> under the supervision of <a href="https://www.imperial.ac.uk/people/e.c.lupu">Prof Emil C. Lupu</a> and <a href="https://www.doc.ic.ac.uk/~lmunozgo/">Dr Luis Muñoz González</a>. 
