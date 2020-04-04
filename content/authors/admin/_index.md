@@ -54,9 +54,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ccanojavi
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-6394-4573
+#- icon: orcid
+#  icon_pack: ai
+#  link: https://orcid.org/0000-0002-6394-4573
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?user=Pk2TMyEAAAAJ&hl=en&oi=ao
@@ -80,9 +80,9 @@ social:
   link: https://github.com/javiccano
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -94,4 +94,6 @@ user_groups:
 - Visitors
 ---
 
-Javier Carnerero Cano is a PhD Candidate in the <a href="http://www.imperial.ac.uk/computing">Department of Computing</a> at <a href="https://www.imperial.ac.uk/">Imperial College London</a>. His current interests include (not limited to) adversarial machine learning, aiming to investigate the security of machine learning algorithms (with special focus on data poisoning attacks); applications of machine learning in security; bilevel optimisation problems; and Generative Adversarial Networks (GANs). Javier is part of the <a href="http://rissgroup.org">Resilient Information Systems Security (RISS) Group</a> under the supervision of <a href="https://www.imperial.ac.uk/people/e.c.lupu">Prof Emil C. Lupu</a> and <a href="https://www.doc.ic.ac.uk/~lmunozgo/">Dr Luis Muñoz González</a>. 
+**Welcome!** I am Javier, a Telecommunications Engineer and PhD Candidate in the <a href="http://www.imperial.ac.uk/computing">Department of Computing</a> at <a href="https://www.imperial.ac.uk/">Imperial College London</a>. My current interests are (not limited to) **adversarial machine learning**, aiming to investigate the security of machine learning algorithms (with special focus on **data poisoning attacks**); applications of machine learning in security; **bilevel optimisation problems**; and **Generative Adversarial Networks (GANs)**. I am part of the <a href="http://rissgroup.org">Resilient Information Systems Security (RISS) Group</a> under the supervision of <a href="https://www.imperial.ac.uk/people/e.c.lupu">Prof Emil C. Lupu</a> and <a href="https://www.doc.ic.ac.uk/~lmunozgo/">Dr Luis Muñoz González</a>.
+
+I am passionate about travelling. I am **eager to learn**, **analytical**, **deliberative** and **achiever**. I am always interested in **challenges** and open to new collaborations. <a href="#contact">Drop me an email or DM me on LinkedIn</a> to connect!  

@@ -1,6 +1,6 @@
 +++
 title = "Challenges and Advances in Adversarial Machine Learning"
-date = 2019-11-01
+date = 2019-12-01
 authors = ["Luis Muñoz-González", "Javier Carnerero-Cano", "Kenneth T. Co", "Emil C. Lupu"]
 publication_types = ["6"]
 abstract = "In this book chapter we describe the vulnerabilities of machine learning systems, as well as the advancements and challenges to secure them."
