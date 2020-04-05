@@ -7,7 +7,7 @@ abstract = "In this work, a novel low-cost and portable Internet-of-Things (IoT)
 featured = false
 publication = "*32nd URSI National Symposium, Spain*"
 keywords = "passive electromagnetic sensors"
-url_pdf = https://www.researchgate.net/publication/324532479_Lector_de_Bajo_Coste_de_Sensores_Electromagneticos_Pasivos_e_Inalambricos_para_el_Internet_de_las_Cosas_IoT
+url_pdf = "https://www.researchgate.net/publication/324532479_Lector_de_Bajo_Coste_de_Sensores_Electromagneticos_Pasivos_e_Inalambricos_para_el_Internet_de_las_Cosas_IoT"
 
 reading_time = false
 share = false
