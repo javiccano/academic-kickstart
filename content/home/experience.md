@@ -26,10 +26,10 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Assisting in lab sessions and tutorials and marking coursework in:
-
-  * <a href="https://www.imperial.ac.uk/computing/current-students/courses/496/">Mathematics for Machine Learning (CO496)</a> (Autumn 2019).
-  * <a href="https://www.imperial.ac.uk/computing/current-students/courses/395/">Introduction to Machine Learning (CO395)</a> (Spring 2020).
+  
   * <a href="https://www.imperial.ac.uk/computing/current-students/courses/460/">Deep Learning (CO460)</a> (Spring 2020). Also prepared Jupyter Notebooks for the tutorials and courseworks.
+  * <a href="https://www.imperial.ac.uk/computing/current-students/courses/395/">Introduction to Machine Learning (CO395)</a> (Spring 2020).
+  * <a href="https://www.imperial.ac.uk/computing/current-students/courses/496/">Mathematics for Machine Learning (CO496)</a> (Autumn 2019).
   """
 
 [[experience]]
