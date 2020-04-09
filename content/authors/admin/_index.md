@@ -51,9 +51,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ccano-javi/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ccanojavi
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/ccanojavi
 #- icon: orcid
 #  icon_pack: ai
 #  link: https://orcid.org/0000-0002-6394-4573
