@@ -63,9 +63,9 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Javier_Carnerero-Cano
-- icon: semantic-scholar
-  icon_pack: ai
-  link: https://www.semanticscholar.org/author/Javier-Carnerero-Cano/1414741164  
+#- icon: semantic-scholar
+#  icon_pack: ai
+#  link: https://www.semanticscholar.org/author/Javier-Carnerero-Cano/1414741164  
 #- icon: microsoft
 #  icon_pack: fab
 # link: https://academic.microsoft.com/profile/4h100271-6542-4gfe-92eg-269931263i20/javiccano/publication/search?q=Javier%20Carnerero-Cano&qe=%2540%2540%2540USER.PUBLICATIONS%253D4d100271-6542-4cba-92ac-269931263e20&f=&orderBy=0
