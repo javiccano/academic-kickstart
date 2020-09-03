@@ -40,7 +40,9 @@ date_format = "Jan 2006"
   date_start = "2018-05-01"
   date_end = ""
   description = """
-  Researching the security of machine learning: analysing the vulnerabilities of machine learning algorithms, designing effective attacks and evaluating their impact, and proposing defences that can help these algorithms to be more robust to adversaries.
+  Researching the security of machine learning: analysing the vulnerabilities of machine learning algorithms, designing effective attacks and evaluating their impact, and proposing defences that can help these algorithms to be more robust to adversaries. Special focus on data poisoning attacks.
+
+  Assisted in the supervision of one MSc in Computing Science student on data poisoning attacks against machine learning (Distinguised Project).
   """
   
 [[experience]]
@@ -54,7 +56,7 @@ date_format = "Jan 2006"
   Hired by the Data Science Talent Program at Santander Group. Carried out ETL tasks in the data lake of the company:
 
   * Study and optimisation of a PoC, written in Java language, for the extraction of information from a database warehoused in Hive/Impala (through Hue), and its subsequent transmission, processing and visualisation in Kibana. Other involved technologies were: Apache Maven, Apache Spark, MapReduce, and HDFS.
-  * Collaboration in a data migration project: execution, validation and optimisation of processes and MySQL queries to ETL data warehoused in Hive/Impala (through Hue), according to a pre-established mesh (Control-M).  
+  * Collaboration in a data migration project: execution, validation and optimisation of processes and SQL queries to ETL data warehoused in Hive/Impala (through Hue), according to a pre-established mesh (Control-M).  
   """
   
 [[experience]]
@@ -69,7 +71,7 @@ date_format = "Jan 2006"
 
   We proposed a novel low-cost and portable IoT reader for passive wireless electromagnetic sensors. An interesting application is the remote measurement of harmful substances. Up to our knowledge, it was the first wireless reader of passive electromagnetic sensors including IoT functionalities (<a href="https://dx.doi.org/10.3390/s17040693">"An IoT Reader for Wireless Passive Electromagnetic Sensors"</a>).
 
-  As a further step, we designed a novel contactless sensing system composed of a metamaterial-inspired sensor and a reader antenna, in order to detect substances in short distances (< 1 cm) in real time. This led to a low-cost, replaceable, battery-free and fully passive solution. Moreover, thanks to the short-reading range, the sensor avoids external interferences and undesired radiations (<a href="https://doi.org/10.1109/JSEN.2018.2826982">"A Contactless Dielectric Constant Sensing System Based on a Split-Ring Resonator-Loaded Monopole"</a>).
+  As a further step, we designed a novel contactless sensing system composed of a metamaterial-inspired sensor and a reader antenna, in order to detect substances in short distances (< 1 cm) in real time. This led to a low-cost, replaceable, battery-free and fully passive solution. Moreover, thanks to the short-reading range, the sensor avoids external interferences and undesired radiations (<a href="https://doi.org/10.1109/JSEN.2018.2826982">"A Contactless Dielectric Constant Sensing System Based on a Split-Ring Resonator-Loaded Monopole"</a>, <a href="https://doi.org/10.2528/PIERM20051402">"A Contactless System for the Dielectric Characterization of Liquid Drops"</a>).
 
   On the other hand, we collaborated in an R&D project with an important Spanish telecommunications company (<a href="http://www.prodetel.es/en/">Prodetel, S.A.</a>). Concretely, we designed an innovative multiband feeder for aeronautic telemetry applications.
   """
