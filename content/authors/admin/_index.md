@@ -22,6 +22,8 @@ bio: My interests include adversarial machine learning (with special focus on da
 
 
 interests:
+- Machine Learning
+- Deep Learning
 - Adversarial Machine Learning
 - Bilevel Optimization
 - Generative Adversarial Networks
@@ -30,14 +32,14 @@ interests:
 
 education:
   courses:
-  - course: MRes in Multimedia, Machine Learning and Communications
-    institution: Universidad Carlos III de Madrid
+  - course: <a href="http://www.uc3m.es/ss/Satellite/Postgrado/en/Detalle/Estudio_C/1371209061191/1371219633369/Master_in_Multimedia_and_Communications">MRes in Multimedia, Machine Learning and Communications</a>
+    institution: <a href="https://www.uc3m.es/Home">Universidad Carlos III de Madrid</a>
     year: 2017
-  - course: MEng in Telecommunications Engineering
-    institution: Universidad Carlos III de Madrid
+  - course: <a href="https://www.uc3m.es/master/telecommunication-engineering">MEng in Telecommunications Engineering</a>
+    institution: <a href="https://www.uc3m.es/Home">Universidad Carlos III de Madrid</a>
     year: 2017
-  - course: BEng in Telecommunications Engineering
-    institution: Universidad Carlos III de Madrid
+  - course: <a href="https://www.uc3m.es/bachelor-degree/telecommunication">BEng in Telecommunications Engineering</a>
+    institution: <a href="https://www.uc3m.es/Home">Universidad Carlos III de Madrid</a>
     year: 2015
 
 # Social/Academic Networking

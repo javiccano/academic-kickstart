@@ -32,12 +32,18 @@ subtitle = ""
   icon_pack = "fas"
   name = "Deep Learning"
   description = "70%" 
+  
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "GANs"
+  description = "80%" 
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "70%"
+  description = "80%"
   
 [[feature]]
   icon = "python"
@@ -49,7 +55,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Scikit-learn"
-  description = "60%"
+  description = "70%"
   
 [[feature]]
   icon = "python"
@@ -61,13 +67,13 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "TensorFlow"
-  description = "50%"
+  description = "60%"
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Keras"
-  description = "40%"
+  description = "50%"
   
   
 [[feature]]
@@ -80,19 +86,19 @@ subtitle = ""
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "40%"
+  description = "50%"
   
 [[feature]]
   icon = "code"
   icon_pack = "fas"
   name = "C"
-  description = "40%"
+  description = "50%"
   
 [[feature]]
   icon = "file-code"
   icon_pack = "fas"
   name = "LaTeX"
-  description = "70%"
+  description = "80%"
   
 [[feature]]
   icon = "database"
@@ -104,13 +110,13 @@ subtitle = ""
   icon = "broadcast-tower"
   icon_pack = "fas"
   name = "RF and Antenna Engineering"
-  description = "70%"
+  description = "80%"
   
 [[feature]]
   icon = "broadcast-tower"
   icon_pack = "fas"
   name = "RADAR"
-  description = "70%"
+  description = "80%"
   
 [[feature]]
   icon = "globe-europe"
