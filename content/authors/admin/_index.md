@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: ML & Security Researcher and Telecom Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -32,14 +32,14 @@ interests:
 
 education:
   courses:
-  - course: <a href="http://www.uc3m.es/ss/Satellite/Postgrado/en/Detalle/Estudio_C/1371209061191/1371219633369/Master_in_Multimedia_and_Communications">MRes in Multimedia, Machine Learning and Communications</a>
-    institution: <a href="https://www.uc3m.es/Home">Universidad Carlos III de Madrid</a>
+  - course: MRes in Multimedia, Machine Learning and Communications
+    institution: Universidad Carlos III de Madrid
     year: 2017
-  - course: <a href="https://www.uc3m.es/master/telecommunication-engineering">MEng in Telecommunications Engineering</a>
-    institution: <a href="https://www.uc3m.es/Home">Universidad Carlos III de Madrid</a>
+  - course: MEng in Telecommunications Engineering
+    institution: Universidad Carlos III de Madrid
     year: 2017
-  - course: <a href="https://www.uc3m.es/bachelor-degree/telecommunication">BEng in Telecommunications Engineering</a>
-    institution: <a href="https://www.uc3m.es/Home">Universidad Carlos III de Madrid</a>
+  - course: BEng in Telecommunications Engineering
+    institution: Universidad Carlos III de Madrid
     year: 2015
 
 # Social/Academic Networking
