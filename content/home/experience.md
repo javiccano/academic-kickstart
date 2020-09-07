@@ -67,7 +67,7 @@ date_format = "Jan 2006"
   date_start = "2016-02-01"
   date_end = "2017-10-31"
   description = """
-  Research in communications, radio frequency, antennas, and electromagnetic sensors.
+  Research in communications, radio frequency, antennas and electromagnetic sensors.
 
   We proposed a novel low-cost and portable IoT reader for passive wireless electromagnetic sensors. An interesting application is the remote measurement of harmful substances. Up to our knowledge, it was the first wireless reader of passive electromagnetic sensors including IoT functionalities (<a href="https://dx.doi.org/10.3390/s17040693">"An IoT Reader for Wireless Passive Electromagnetic Sensors"</a>).
 
