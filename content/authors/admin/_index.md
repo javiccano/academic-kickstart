@@ -97,7 +97,8 @@ user_groups:
 ---
 
 
-(Last updated: <script>document.write( new Date().getMonth() + 1 ); document.write( '/' ); document.write( new Date().getFullYear() );</script>)
+
+(Last updated: <script>document.write( ((new Date().getMonth() + 1) < 10 ? "0" : "") );</script>/<script>document.write( new Date().getFullYear() );</script>)
 
 **Welcome!** I am Javier, a Telecommunications Engineer and PhD Candidate in the <a href="http://www.imperial.ac.uk/computing">Department of Computing</a> at <a href="https://www.imperial.ac.uk/">Imperial College London</a>. My current interests are (not limited to) **adversarial machine learning**, aiming to investigate the security of machine learning algorithms (with special focus on **data poisoning attacks**); **bilevel optimization problems**; **Generative Adversarial Networks** (**GANs**); and applications of machine learning in security. I am part of the <a href="http://rissgroup.org">Resilient Information Systems Security (RISS) Group</a> under the supervision of <a href="https://www.imperial.ac.uk/people/e.c.lupu">Prof Emil C. Lupu</a> and <a href="https://www.doc.ic.ac.uk/~lmunozgo/">Dr Luis Muñoz González</a>.
 
