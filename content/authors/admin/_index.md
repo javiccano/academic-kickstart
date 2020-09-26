@@ -96,9 +96,8 @@ user_groups:
 - Visitors
 ---
 
-(Last updated: <script> document.write( new Date().getFullYear() );</script>)
 
-(Last updated: <script>document.write(( new Date().getMonth() );</script><script>document.write(( "/" );</script><script>document.write(( new Date().getFullYear() );</script>)
+(Last updated: <script>document.write(( new Date().getMonth() );</script><script>document.write(( new Date().getFullYear() );</script>)
 
 
 
