@@ -1,4 +1,7 @@
 ---
+# (Last updated: <script>document.write( (new Date().getMonth() + 1) );</script>/<script>document.write( new Date().getFullYear() );</script>)
+
+
 # Display name
 name: Javier Carnerero Cano
 
@@ -98,7 +101,6 @@ user_groups:
 
 
 
-# (Last updated: <script>document.write( (new Date().getMonth() + 1) );</script>/<script>document.write( new Date().getFullYear() );</script>)
 (Last updated: September 2020)
 
 
