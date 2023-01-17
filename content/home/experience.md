@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Imperial College London (Department of Computing)"
   company_url = "https://www.imperial.ac.uk/computing/current-students/courses/"
   location = "London, United Kingdom"
-  date_start = "2019-10-01"
-  date_end = ""
+  date_start = "2019"
+  date_end = "2022"
   description = """
   Assisting in lab sessions and tutorials and marking coursework in:
   

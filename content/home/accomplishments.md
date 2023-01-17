@@ -21,34 +21,94 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+
+
+
+
+	
+
+	
+
+		
+
+
+
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Nova"
+  organization_url = ""
+  title = "Top Talent"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = "2022"
+  description = "Nova is a global top talent network where all members (from +72 countries) accelerate their careers through a meticulous selection process that verifies that each member belongs to the top 3\% in their respective field of expertise."
+
+
+[[item]]
+  organization = "Universidad Carlos III de Madrid"
+  organization_url = ""
+  title = "Alumni Excellence Award"
+  url = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = "2022"
+  description = "Awarded to graduates from Universidad Carlos III de Madrid with accredited excellence in their professional development."
+
+
+[[item]]
+  organization = "Santander-CIDOB"
+  organization_url = ""
+  title = "35 under 35 List"
+  url = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = "2021"
+  description = "This lists brings together 35 potential and consolidated minds of 35 or less years of age which are experts on the global digital order, specially focusing on algorithmic governance and AI."
+
+
+
+[[item]]
+  organization = "Machine Learning Summer School Indonesia"
+  organization_url = ""
+  title = "Best Poster Award"
+  url = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = "2020"
+  description = "Awarded to the poster ``Regularisation Can Mitigate Poisoning Attacks: A Novel Analysis Based on Multiobjective Bilevel Optimisation''."
+
+
+[[item]]
+  organization = "Defence Science and Technology Laboratory (Dstl)"
+  organization_url = ""
+  title = "PhD Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = "2018"
+  description = "Competitive call."
+
+
+[[item]]
+  organization = "Universidad Carlos III de Madrid"
+  organization_url = ""
+  title = "MSc Research Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = "2016"
+  description = "Competitive call."
+
+
+[[item]]
+  organization = "Spanish Ministry of Education"
+  organization_url = ""
+  title = "Tuition-fee Scholarships"
+  url = ""
+  certificate_url = ""
+  date_start = "2014"
+  date_end = "2016"
+  description = "Merit and need-based scholarships."
 
 +++
