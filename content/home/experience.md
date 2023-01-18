@@ -36,8 +36,8 @@ date_format = "Jan 2006"
   company = "Imperial College London"
   company_url = "https://www.imperial.ac.uk/computing/current-students/courses/"
   location = ""
-  date_start = "2019-10-01"
-  date_end = "2022-12-31"
+  date_start = "2017-11-01"
+  date_end = "2018-02-28"
   description = """
   Assisted in lab sessions and tutorials and marked coursework in the Dept. of Computing:
 
