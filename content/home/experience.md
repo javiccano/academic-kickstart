@@ -18,15 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Teaching Assistant"
-  company = "Imperial College London (Department of Computing)"
-  company_url = "https://www.imperial.ac.uk/computing/current-students/courses/"
+  title = "PhD Researcher, Machine Learning Security"
+  company = "Imperial College London"
+  company_url = "https://www.imperial.ac.uk/computing/"
   location = "London, United Kingdom"
-  date_start = "2019-10-01"
+  date_start = "2018"
   date_end = ""
   description = """
-  Assisting in lab sessions and tutorials and marking coursework in:
-  
+  Researching the security of machine learning in the Dept. of Computing: analyzing the vulnerabilities of machine learning algorithms, designing effective attacks and evaluating their impact, and proposing defenses that can help these algorithms to be more robust to adversaries. Special focus on data poisoning attacks. Techniques developed based on bilevel optimization and Generative Adversarial Networks.
+
+  Assisted in the supervision of 2 MSc (one of them passed with Distinction), 1 MEng, and 1 Undergraduate Research Opportunities Programme (UROP) student research projects, and 1 group project (5 students) on data poisoning attacks against machine learning.
+  """
+
+
+[[experience]]
+  title = "Teaching Assistant,  Dept. of Computing"
+  company = "Imperial College London"
+  company_url = "https://www.imperial.ac.uk/computing/current-students/courses/"
+  location = "London, United Kingdom"
+  date_start = "2019"
+  date_end = "2022"
+  description = """
+  Assisted in lab sessions and tutorials and marked coursework in the Dept. of Computing:
+
+  * <a href="https://www.imperial.ac.uk/computing/current-students/courses/70050/">Introduction to Machine Learning </a> (Autumn 2022).
+  * <a href="https://www.imperial.ac.uk/computing/current-students/courses/70015/">Mathematics for Machine Learning </a> (Autumn 2021).
+  * <a href="https://www.imperial.ac.uk/computing/current-students/courses/70019/">Probabilistic Inference </a> (Spring 2021).
   * <a href="https://www.imperial.ac.uk/computing/current-students/courses/70028/">Reinforcement Learning </a> (Autumn 2020).
   * <a href="https://www.imperial.ac.uk/computing/current-students/courses/70010/">Deep Learning </a> (Spring 2020). Also prepared Jupyter Notebooks for the tutorials and courseworks.
   * <a href="https://www.imperial.ac.uk/computing/current-students/courses/70050/">Introduction to Machine Learning </a> (Spring 2020).
@@ -34,21 +51,8 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Research Assistant"
-  company = "Imperial College London (Department of Computing)"
-  company_url = "https://www.imperial.ac.uk/computing/"
-  location = "London, United Kingdom"
-  date_start = "2018-05-01"
-  date_end = ""
-  description = """
-  Researching the security of machine learning: analyzing the vulnerabilities of machine learning algorithms, designing effective attacks and evaluating their impact, and proposing defences that can help these algorithms to be more robust to adversaries. Special focus on data poisoning attacks.
-
-  Assisted in the supervision of one MSc in Computing Science student on data poisoning attacks against machine learning (Distinguised Project).
-  """
-  
-[[experience]]
-  title = "Data Engineer"
-  company = "Santander Global Tech (Area of Big Data and Business Intelligence Solutions)"
+  title = "Intern, Data Engineering"
+  company = "Santander Digital Services Spains"
   company_url = "https://santanderglobaltech.com/en/"
   location = "Madrid, Spain"
   date_start = "2017-11-01"
@@ -62,7 +66,7 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Research Assistant"
-  company = "Universidad Carlos III de Madrid (Department of Signal Theory and Communications)"
+  company = "Universidad Carlos III de Madrid (Dept. of Signal Theory and Communications)"
   company_url = "http://www.tsc.uc3m.es/en/index.php"
   location = "Madrid, Spain"
   date_start = "2016-02-01"
