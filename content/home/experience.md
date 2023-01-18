@@ -92,13 +92,11 @@ date_format = "Jan 2006"
   company = "Self-employed"
   company_url = "https://santanderglobaltech.com/en/"
   location = "Madrid, Spain"
-  date_start = "2017-11-01"
-  date_end = "2018-02-28"
+  date_start = "2014-07-01"
+  date_end = "2015-08-31"
   description = """
-  Hired by the Data Science Talent Program at Santander Group. Carried out Extract, Transform, Load (ETL) tasks in the Area of Big Data and BI Solutions, in the data lake of the company:
-
-  * Study and optimization of a PoC, written in Java language, for the extraction of information from a database warehoused in Hive/Impala (through Hue), and its subsequent transmission, processing and visualisation in Kibana. Other involved technologies were: Apache Maven, Apache Spark, MapReduce, and HDFS.
-  * Collaboration in a data migration project: execution, validation and optimization of processes and SQL queries to ETL data warehoused in Hive/Impala (through Hue), according to a pre-established mesh (Control-M).  
+  * Electrical Networks and Electronics: Undergraduate students.
+  * Mathematics: Secondary school students.
   """ 
 	
 +++
