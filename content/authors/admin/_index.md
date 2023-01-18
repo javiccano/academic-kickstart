@@ -13,7 +13,7 @@ authors:
 superuser: true
 
 # Role/position
-role: ML and Security Researcher and Telecom Engineer
+role: PhD Researcher in Machine Learning Security
 
 # Organizations/Affiliations
 organizations:
@@ -21,24 +21,29 @@ organizations:
   url: "https://www.imperial.ac.uk/computing"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include adversarial machine learning (with special focus on data poisoning attacks); bilevel optimization problems; Generative Adversarial Networks (GANs); and applications of machine learning in security.
+bio: My interests include adversarial machine learning (with special focus on data poisoning attacks); bilevel optimization problems; and Generative Adversarial Networks (GANs).
 
 
 interests:
 - Machine Learning
 - Deep Learning
-- Adversarial Machine Learning
+- Adversarial Machine Learning and Data Poisoning
 - Bilevel Optimization
 - Generative Adversarial Networks
-- Machine Learning for Security
+- Federated Learning
+
 
 
 education:
   courses:
-  - course: MRes in Multimedia, Machine Learning and Communications
+
+  - course: PhD in Machine Learning Security
+    institution: Imperial College London
+    year: (exp.) 2023
+  - course: MRes in Multimedia and Communications
     institution: Universidad Carlos III de Madrid
     year: 2017
-  - course: MEng in Telecommunications Engineering
+  - course: MSc in Telecommunications Engineering
     institution: Universidad Carlos III de Madrid
     year: 2017
   - course: BEng in Telecommunications Engineering
@@ -64,7 +69,7 @@ social:
 #  link: https://orcid.org/0000-0002-6394-4573
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.es/citations?user=Pk2TMyEAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.es/citations?user=Pk2TMyEAAAAJ&
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Javier_Carnerero-Cano
@@ -101,9 +106,11 @@ user_groups:
 
 
 
-(Last updated: September 2020)
+(Last updated: January 2023)
 
 
-**Welcome!** I am Javier, a Telecommunications Engineer and PhD Candidate in the <a href="http://www.imperial.ac.uk/computing">Department of Computing</a> at <a href="https://www.imperial.ac.uk/">Imperial College London</a>. My current interests are (not limited to) **adversarial machine learning**, aiming to investigate the security of machine learning algorithms (with special focus on **data poisoning attacks**); **bilevel optimization problems**; **Generative Adversarial Networks** (**GANs**); and applications of machine learning in security. I am part of the <a href="http://rissgroup.org">Resilient Information Systems Security (RISS) Group</a> under the supervision of <a href="https://www.imperial.ac.uk/people/e.c.lupu">Prof Emil C. Lupu</a> and <a href="https://www.doc.ic.ac.uk/~lmunozgo/">Dr Luis Muñoz González</a>.
+**Welcome!** I am Javier, a PhD Candidate in AI Security in the <a href="http://www.imperial.ac.uk/computing">Department of Computing</a> at <a href="https://www.imperial.ac.uk/">Imperial College London</a>. My current interests are (not limited to) **adversarial machine learning**, aiming to investigate the security of machine learning algorithms; **bilevel optimization problems**; **Generative Adversarial Networks** (**GANs**); and federated learning. I focus on **data poisoning attacks**, where attackers can manipulate training data
+collected from untrusted sources to degrade the ML algorithm's performance. I am part of the <a href="http://rissgroup.org">Resilient Information Systems Security (RISS) Group</a> under the supervision of <a href="https://www.imperial.ac.uk/people/e.c.lupu">Prof Emil C. Lupu</a> and <a href="https://www.doc.ic.ac.uk/~lmunozgo/">Dr Luis Muñoz González</a>. I have extensive experience in prototyping ML algorithms in Python and PyTorch. I have worked as a teaching assistant in several courses in ML, deep learning, and probabilistic methods at <a href="https://www.imperial.ac.uk/">Imperial College London</a>. I did an internship in summer 2022 at <a href="https://research.ibm.com/labs/ireland">IBM Research Europe - Ireland</a> on ML security. I was included in the <a href="https://www.cidob.org/es/actividades/lineas_de_investigacion_tematicas/cidob/santander_cidob_35_under_35_list2/santander_cidob_35_under_35_list_javier_carnerero_cano">Santander-CIDOB 35 under 35 List</a> in 2021. My background is also in Telecom Engineering. If you want to know fun facts about me, you can have a look at this <a href="https://www.youtube.com/watch?v=h7aS7ySgUVU">video</a>.
 
 I am passionate about travelling. I am **eager to learn**, **analytical**, **deliberative** and **achiever**. I am always interested in **challenges** and open to new collaborations. <a href="#contact">Drop me an email or DM me on LinkedIn</a> to connect!  
+
