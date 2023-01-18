@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Imperial College London"
   company_url = "https://www.imperial.ac.uk/computing/"
   location = "London, United Kingdom"
-  date_start = "2018"
+  date_start = "2017-05-01"
   date_end = ""
   description = """
   Researching the security of machine learning in the Dept. of Computing: analyzing the vulnerabilities of machine learning algorithms, designing effective attacks and evaluating their impact, and proposing defenses that can help these algorithms to be more robust to adversaries. Special focus on data poisoning attacks. Techniques developed based on bilevel optimization and Generative Adversarial Networks.
