@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = ""
   date_end = "2022"
-  description = "Nova is a global top talent network where all members (from +72 countries) accelerate their careers through a meticulous selection process that verifies that each member belongs to the top 3\% in their respective field of expertise."
+  description = "Nova is a global top talent network where all members (from +72 countries) accelerate their careers through a meticulous selection process that verifies that each member belongs to the top 3% in their respective field of expertise."
 
 
 [[item]]
