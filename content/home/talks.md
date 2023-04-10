@@ -4,11 +4,11 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 75  # Order that this section will appear.
 
 # title = "Recent & Upcoming Talks"
-title = "Invited Talks"
+title = "Talks"
 subtitle = ""
 
 [content]
@@ -26,9 +26,9 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
+    tag = "Tag"
+    category = "Category"
+    publication_type = "Publication Type"
     author = ""
     exclude_featured = false
     exclude_past = false

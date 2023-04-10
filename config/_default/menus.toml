@@ -24,6 +24,12 @@
 #  url = "#posts"
 #  weight = 40
 
+
+[[main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 75
+
 [[main]]
   name = "Selected R&D Projects"
   url = "#projects"
