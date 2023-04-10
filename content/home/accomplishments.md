@@ -23,6 +23,16 @@ date_format = "Jan 2006"
 
 
 
+[[item]]
+  organization = "Regional Ministry of Education, Community of Madrid, Spain"
+  organization_url = ""
+  title = "Honors Diploma in Secondary Education"
+  url = ""
+  certificate_url = ""
+  date_start = "Jan 2009"
+  date_end = ""
+  description = "Awarded to the best secondary school students of the Community of Madrid (Spain)."
+
 +++
 
 
