@@ -13,7 +13,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -23,7 +23,15 @@ date_format = "Jan 2006"
 
 
 
-
+[[item]]
+  organization = "Nova"
+  organization_url = ""
+  title = "Top Talent"
+  url = ""
+  certificate_url = ""
+  date_start = "2022"
+  date_end = ""
+  description = "Nova is a global top talent network where all members (from +72 countries) accelerate their careers through a meticulous selection process that verifies that each member belongs to the top 3% in their respective field of expertise."
 
 
 [[item]]
