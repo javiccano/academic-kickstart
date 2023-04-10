@@ -112,7 +112,9 @@ user_groups:
 **Welcome!** I am Javier, a PhD Candidate in AI Security in the <a href="http://www.imperial.ac.uk/computing">Dept. of Computing</a> at <a href="https://www.imperial.ac.uk/">Imperial College London</a>. My current interests are (not limited to) **adversarial machine learning**, aiming to investigate the security of machine learning algorithms; **bilevel optimization problems**; **Generative Adversarial Networks** (**GANs**); and **federated learning**. I focus on **data poisoning attacks**, where attackers can manipulate training data
 collected from untrusted sources to degrade the ML algorithm's performance. I am part of the <a href="http://rissgroup.org">Resilient Information Systems Security (RISS) Group</a> under the supervision of <a href="https://www.imperial.ac.uk/people/e.c.lupu">Prof Emil C. Lupu</a> and <a href="https://www.doc.ic.ac.uk/~lmunozgo/">Dr Luis Muñoz González</a>. For a high-level and fun presentation of my research interests in data poisoning, you can have a look at this video:
 
+ {{< youtube EOhnOGUNNfU >}}
 
+<br>
 
 I have worked as a teaching assistant in several courses in **ML**, **deep learning**, and **probabilistic methods** at <a href="https://www.imperial.ac.uk/">Imperial College London</a>. I did a research internship in summer 2022 at <a href="https://research.ibm.com/labs/ireland">IBM Research</a> on **ML security** and **machine unlearning**. 
 
