@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   title = "Honors Diploma in Secondary Education"
   url = ""
   certificate_url = ""
-  date_start = "Jan 2009"
+  date_start = "2022-06-01"
   date_end = ""
   description = "Awarded to the best secondary school students of the Community of Madrid (Spain)."
 
