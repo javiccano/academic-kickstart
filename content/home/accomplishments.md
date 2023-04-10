@@ -23,25 +23,14 @@ date_format = "Jan 2006"
 
 
 
-
-
-	
-
-	
-
-		
-
-
-
-
 [[item]]
   organization = "Nova"
   organization_url = ""
   title = "Top Talent"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = "2022"
+  date_start = "2022"
+  date_end = ""
   description = "Nova is a global top talent network where all members (from +72 countries) accelerate their careers through a meticulous selection process that verifies that each member belongs to the top 3% in their respective field of expertise."
 
 
@@ -51,8 +40,8 @@ date_format = "Jan 2006"
   title = "Alumni Excellence Award"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = "2022"
+  date_start = "2022"
+  date_end = ""
   description = "Awarded to graduates from Universidad Carlos III de Madrid with accredited excellence in their professional development."
 
 
@@ -62,8 +51,8 @@ date_format = "Jan 2006"
   title = "35 under 35 List"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = "2021"
+  date_start = "2021"
+  date_end = ""
   description = "This lists brings together 35 potential and consolidated minds of 35 or less years of age which are experts on the global digital order, specially focusing on algorithmic governance and AI."
 
 
@@ -74,8 +63,8 @@ date_format = "Jan 2006"
   title = "Best Poster Award"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = "2020"
+  date_start = "2020"
+  date_end = ""
   description = "Awarded to the poster ``Regularisation Can Mitigate Poisoning Attacks: A Novel Analysis Based on Multiobjective Bilevel Optimisation''."
 
 
@@ -85,8 +74,8 @@ date_format = "Jan 2006"
   title = "PhD Scholarship"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = "2018"
+  date_start = "2018"
+  date_end = ""
   description = "Competitive call."
 
 
@@ -96,8 +85,8 @@ date_format = "Jan 2006"
   title = "MSc Research Scholarship"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = "2016"
+  date_start = "2016"
+  date_end = ""
   description = "Competitive call."
 
 
@@ -119,8 +108,8 @@ date_format = "Jan 2006"
   title = "Top 7% of the BEng in Telecommunications Engineering"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = "2015"
+  date_start = "2015"
+  date_end = ""
   description = ""
 
 
@@ -130,8 +119,8 @@ date_format = "Jan 2006"
   title = "Honors Diploma in Secondary Education"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = "2009"
+  date_start = "2009"
+  date_end = ""
   description = "Awarded to the best secondary school students of the Community of Madrid (Spain)."
 
 +++
