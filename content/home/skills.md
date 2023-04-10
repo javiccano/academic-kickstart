@@ -26,6 +26,18 @@ subtitle = ""
   icon_pack = "fas"
   name = "Adversarial Machine Learning"
   description = "80%"  
+
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Data Poisoning"
+  description = "90%"  
+
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Federated Learning"
+  description = "70%"  
   
 [[feature]]
   icon = "robot"
