@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
+title = "Selected R&D Projects"
 subtitle = ""
 
 [content]
@@ -32,6 +32,28 @@ subtitle = ""
   # [[content.filter_button]]
   #   name = "Other"
   #   tag = "Demo"
+
+  [[content.filter_button]]
+    name = "Evaluating the Robustness of Machine Learning Algorithms in Adversarial Settings, funded by Defence Science and Technology Laboratory (Dstl), in collaboration with Imperial College London (2018 - pres.)."
+    tag = "*"
+
+
+  [[content.filter_button]]
+    name = "Machine Unlearning under Data Poisoning, in collaboration with IBM Research (2022)."
+    tag = "*"
+
+
+
+  [[content.filter_button]]
+    name = "Development of a Multiband Feeder with Autotracking Capability, funded by Prodetel, in collaboration with Universidad Carlos III de Madrid (2017)."
+    tag = "*"
+
+  [[content.filter_button]]
+    name = "Design of a Reading System for Metamaterial-Based Passive Wireless Sensors, in collaboration with Universidad Carlos III de Madrid (2016 - 2017)."
+    tag = "*"
+
+
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
