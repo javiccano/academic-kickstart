@@ -111,4 +111,29 @@ date_format = "Jan 2006"
   date_end = "2016"
   description = "Merit and need-based scholarships."
 
+
+
+[[item]]
+  organization = "Universidad Carlos III de Madrid"
+  organization_url = ""
+  title = "Top 7% of the BEng in Telecommunications Engineering"
+  url = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = "2015"
+  description = ""
+
+
+[[item]]
+  organization = "Regional Ministry of Education, Community of Madrid, Spain"
+  organization_url = ""
+  title = "Honors Diploma in Secondary Education"
+  url = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = "2009"
+  description = "Awarded to the best secondary school students of the Community of Madrid (Spain)."
+
 +++
+
+

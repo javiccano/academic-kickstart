@@ -51,6 +51,18 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Research Intern, AI Security and Privacy"
+  company = "IBM Research"
+  company_url = "https://research.ibm.com/labs/ireland"
+  location = "Dublin, Ireland"
+  date_start = "2022-06-01"
+  date_end = "2022-08-31"
+  description = """
+  Researched the security of machine unlearning methods. 
+  """
+
+
+[[experience]]
   title = "Intern, Data Engineering"
   company = "Santander Digital Services Spains"
   company_url = "https://santanderglobaltech.com/en/"
