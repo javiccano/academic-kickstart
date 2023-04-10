@@ -64,7 +64,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Intern, Data Engineering"
-  company = "Santander Digital Services Spains"
+  company = "Santander Digital Services"
   company_url = "https://santanderglobaltech.com/en/"
   location = "Madrid, Spain"
   date_start = "2017-11-01"

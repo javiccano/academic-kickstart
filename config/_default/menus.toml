@@ -47,16 +47,16 @@
   url = "#publications"
   weight = 80
   
-[[main]]
-  name = "Awards and Grants"
-  url = "#accomplishments"
-  weight = 80
+# [[main]]
+#  name = "Awards and Grants"
+#  url = "#accomplishments"
+#  weight = 90
   
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 90
+  weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
