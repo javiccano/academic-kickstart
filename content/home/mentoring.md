@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "PhD Buddy"
+  title = "PhD Buddy, Department of Computing"
   company = "Imperial College London"
   company_url = ""
   location = ""
@@ -56,14 +56,14 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Alumni Mentor"
+  title = "Assistant Supervisor"
   company = "Imperial College London"
   company_url = ""
   location = ""
   date_start = "2018-01-01"
   date_end = "2022-12-31"
   description = """
-  Assisted in the supervision of 2 MSc (one of them passed with Distinction), 1 MEng, and 1 UROP student research projects, and 1 group project (5 students) <a href="https://oskarfernlund.github.io/niteshade/">[Link]</a> on data poisoning attacks against machine learning.
+  Assisted in the supervision of 2 MSc (one of them passed with Distinction), 1 MEng, and 1 UROP student research projects, and 1 group project (5 students) [<a href="https://oskarfernlund.github.io/niteshade/">Link</a>] on data poisoning attacks against machine learning.
   """
 
 +++
