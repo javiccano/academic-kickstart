@@ -118,3 +118,4 @@ I have worked as a teaching assistant in several courses in **ML**, **deep learn
 
 I am passionate about travelling. I am **eager to learn**, **analytical**, **deliberative** and **achiever**. I am always interested in **challenges** and open to new collaborations. <a href="#contact">Drop me an email or DM me on LinkedIn</a> to connect!  
 
+{{< youtube qtIqKaDlqXo >}}
