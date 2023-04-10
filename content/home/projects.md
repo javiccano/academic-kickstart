@@ -34,22 +34,22 @@ subtitle = ""
   #   tag = "Demo"
 
   [[content.filter_button]]
-    name = "Evaluating the Robustness of Machine Learning Algorithms in Adversarial Settings, funded by Defence Science and Technology Laboratory (Dstl), in collaboration with Imperial College London (2018 - pres.)."
+    name = "Evaluating the Robustness of Machine Learning Algorithms in Adversarial Settings (2018 - pres.)."
     tag = "*"
 
 
   [[content.filter_button]]
-    name = "Machine Unlearning under Data Poisoning, in collaboration with IBM Research (2022)."
+    name = "Machine Unlearning under Data Poisoning (2022)."
     tag = "*"
 
 
 
   [[content.filter_button]]
-    name = "Development of a Multiband Feeder with Autotracking Capability, funded by Prodetel, in collaboration with Universidad Carlos III de Madrid (2017)."
+    name = "Development of a Multiband Feeder with Autotracking Capability (2017)."
     tag = "*"
 
   [[content.filter_button]]
-    name = "Design of a Reading System for Metamaterial-Based Passive Wireless Sensors, in collaboration with Universidad Carlos III de Madrid (2016 - 2017)."
+    name = "Design of a Reading System for Metamaterial-Based Passive Wireless Sensors (2016 - 2017)."
     tag = "*"
 
 
