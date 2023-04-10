@@ -65,7 +65,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "Jan 2020"
   date_end = ""
-  description = "Awarded to the poster ``Regularisation Can Mitigate Poisoning Attacks: A Novel Analysis Based on Multiobjective Bilevel Optimisation''."
+  description = "Awarded to the poster Regularisation Can Mitigate Poisoning Attacks: A Novel Analysis Based on Multiobjective Bilevel Optimisation."
 
 
 [[item]]
