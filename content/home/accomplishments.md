@@ -23,15 +23,7 @@ date_format = "Jan 2006"
 
 
 
-[[item]]
-  organization = "Nova"
-  organization_url = ""
-  title = "Top Talent"
-  url = ""
-  certificate_url = ""
-  date_start = "2022"
-  date_end = "2022"
-  description = "Nova is a global top talent network where all members (from +72 countries) accelerate their careers through a meticulous selection process that verifies that each member belongs to the top 3% in their respective field of expertise."
+
 
 
 [[item]]
@@ -41,7 +33,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2022"
-  date_end = "2022"
+  date_end = ""
   description = "Awarded to graduates from Universidad Carlos III de Madrid with accredited excellence in their professional development."
 
 
@@ -52,7 +44,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2021"
-  date_end = "2021"
+  date_end = ""
   description = "This lists brings together 35 potential and consolidated minds of 35 or less years of age which are experts on the global digital order, specially focusing on algorithmic governance and AI."
 
 
@@ -64,7 +56,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2020"
-  date_end = "2020"
+  date_end = ""
   description = "Awarded to the poster ``Regularisation Can Mitigate Poisoning Attacks: A Novel Analysis Based on Multiobjective Bilevel Optimisation''."
 
 
@@ -75,7 +67,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2018"
-  date_end = "2018"
+  date_end = ""
   description = "Competitive call."
 
 
@@ -86,7 +78,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2016"
-  date_end = "2016"
+  date_end = ""
   description = "Competitive call."
 
 
@@ -109,7 +101,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2015"
-  date_end = "2015"
+  date_end = ""
   description = ""
 
 
@@ -120,7 +112,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2009"
-  date_end = "2009"
+  date_end = ""
   description = "Awarded to the best secondary school students of the Community of Madrid (Spain)."
 
 +++
