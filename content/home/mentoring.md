@@ -63,7 +63,7 @@ date_format = "Jan 2006"
   date_start = "2018-01-01"
   date_end = "2022-12-31"
   description = """
-  Assisted in the supervision of 2 MSc (one of them passed with Distinction), 1 MEng, and 1 UROP student research projects, and 1 group project (5 students) [<a href="https://oskarfernlund.github.io/niteshade/">Link</a>] on data poisoning attacks against machine learning.
+  Assisted in the supervision of 2 MSc (one of them passed with Distinction), 1 MEng, and 1 UROP student research projects, and 1 <a href="https://oskarfernlund.github.io/niteshade/">group project</a> (5 students) on data poisoning attacks against machine learning.
   """
 
 +++

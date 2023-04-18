@@ -1,99 +1,76 @@
 +++
-# A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Accomplishments widget.
+widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
+# title = "Accomplish&shy;ments"
+
 title = "Selected R&D Projects"
+
 subtitle = ""
 
-[content]
-  # Page type to display. E.g. project.
-  page_type = "project"
-  
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
-  
-  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
-  
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
-  
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
-  
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+# Date format
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
 
-  [[content.filter_button]]
-    name = "Evaluating the Robustness of Machine Learning Algorithms in Adversarial Settings (2018 - pres.)."
-    tag = "*"
-
-
-  [[content.filter_button]]
-    name = "Machine Unlearning under Data Poisoning (2022)."
-    tag = "*"
+# Accomplishments.
+#   Add/remove as many `[[item]]` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
 
-  [[content.filter_button]]
-    name = "Development of a Multiband Feeder with Autotracking Capability (2017)."
-    tag = "*"
+[[item]]
+  organization = "Imperial College London, in collaboration with Defence Science and Technology Laboratory (Dstl)"
+  organization_url = ""
+  title = "Evaluating the Robustness of Machine Learning Algorithms in Adversarial Settings (ERASE)"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-01-01"
+  date_end = ""
+  description = ""
 
-  [[content.filter_button]]
-    name = "Design of a Reading System for Metamaterial-Based Passive Wireless Sensors (2016 - 2017)."
-    tag = "*"
+
+[[item]]
+  organization = "IBM Research"
+  organization_url = ""
+  title = "Machine Unlearning under Data Poisoning"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-01-01"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization = "Universidad Carlos III de Madrid, in collaboration with Prodetel"
+  organization_url = ""
+  title = "Development of a Multiband Feeder with Autotracking Capability"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-01-01"
+  date_end = "2017-12-31"
+  description = "Designed an innovative multiband feeder with autotracking capability for aeronautic telemetry applications. Concretely, we conceived a patch antenna array in order to feed a parabolic reflector working simultaneously in the S and C frequency bands. This system is expected to provide an error signal that will allow tracking the trajectory of a particular target (autotracking)."
 
 
 
+[[item]]
+  organization = "Universidad Carlos III de Madrid"
+  organization_url = ""
+  title = "Design of a Reading System for Metamaterial-Based Passive Wireless Sensors"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-01-01"
+  date_end = "2017-12-31"
+  description = """
+  In the last few years, several passive electromagnetic sensors have been reported. Some of these sensors are used for measuring harmful substances, and their response is usually obtained with sophisticated laboratory equipment. This approach highly increases the cost and complexity of the detection system. In this project, a low-cost and portable wireless reading system for passive sensors is designed and manufactured. The reader interrogates the sensors (based on metamaterials) within a short-range radio link, avoiding the direct contact with the substances under test. It is demonstrated, through the wireless measurement of different liquids, that the proposed system can estimate their dielectric permittivity, obtaining a linear approximation with a reduced error. It is noteworthy that the proposed reader can be used with other kinds of electromagnetic sensors, through the monitorization of the target magnitude in the frequency domain."
+  """
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
 
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view = 5
 
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
-
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-  
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
 +++
+
 
